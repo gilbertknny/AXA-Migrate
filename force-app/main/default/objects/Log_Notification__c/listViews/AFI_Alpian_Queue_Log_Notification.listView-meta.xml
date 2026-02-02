@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>AFI_Alpian_Queue_Log_Notification</fullName>
+    <filterScope>Queue</filterScope>
+    <label>AFI - Alpian Queue</label>
+    <queue>AFI_Alpian_Queue</queue>
+    <sharedTo>
+        <allInternalUsers></allInternalUsers>
+    </sharedTo>
+</ListView>
