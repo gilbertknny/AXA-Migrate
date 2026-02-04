@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>Contact.AMFS_Contact</members>
+		<name>CompactLayout</name>
+	</types>
+	<types>
+		<members>Contact-Contact Layout</members>
+		<members>Contact-Contact Layout %28EIP%29</members>
+		<members>Contact-Contact Layout AGI</members>
+		<members>Contact-Contact Layout AGI %28EIP%29</members>
+		<members>Contact-Contact Layout ALI</members>
+		<members>Contact-Contact Layout ALI %28System Admin%29</members>
+		<members>Contact-Contact Layout Health</members>
+		<members>Contact-Copy of Inbound %26 Outbound Contact Layout %28360%29 v3</members>
+		<members>Contact-Inbound %26 Outbound Contact Layout</members>
+		<members>Contact-Inbound %26 Outbound Contact Layout %28360%29</members>
+		<members>Contact-Inbound %26 Outbound Contact Layout %28360%29 v2</members>
+		<members>Contact-Inbound %26 Outbound Contact Layout %28360%29 v3</members>
+		<members>Contact-Inbound %26 Outbound Contact Layout %28EIP%29</members>
+		<members>Contact-Inbound %26 Outbound Contact Layout %28EIP%29 AFI Agency</members>
+		<members>Contact-Inbound %26 Outbound Contact Layout %28Feed%29</members>
+		<members>Contact-Outbound Contact Layout</members>
+		<members>Contact-Outbound Contact Layout %28EIP%29</members>
+		<members>Contact-Outbound Contact Layout %28EIP%29 AFI TM</members>
+		<members>Contact-SfSocial Contact Layout</members>
+		<members>Contact-Test Layout</members>
+		<name>Layout</name>
+	</types>
+	<version>66.0</version>
+</Package>
